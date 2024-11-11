@@ -1,0 +1,21 @@
+button {
+  background-color: rgb(43, 253, 155);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  height: 40px;
+  width: 150px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.add_to_cart {
+  background-color: rgb(5, 202, 160);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  height: 40px;
+  width: 150px;
+  font-size: large;
+  font-weight: bold;
+}
